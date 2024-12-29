@@ -1,0 +1,21 @@
+cpu/cpu.log
+cpu/cpu
+cpu/cicloInstruccion/mmu.go
+cpu/cicloInstruccion/checkinterrupt.go
+cpu/cicloInstruccion/Ejemplos instrucciones.txt
+cpu/cicloInstruccion/execute.go
+cpu/internal/dispatch/dispatch.go
+cpu/internal/Ejemplos instrucciones.txt
+cpu/internal/mmu/mmu.go
+cpu/internal/decode
+cpu/internal/dispatch
+cpu/internal/fetch
+cpu/internal/mmu
+cpu/internal/fetch/fetch.go
+cpu/internal/decode/decode.go
+cpu/internal/Ejemplos instrucciones.txt
+cpu/cpu
+cpu/internal/mmu/mmu.go
+cpu/bin/cpu
+kernel/bin/kernel
+memoria/bin/memoria

@@ -1,0 +1,16 @@
+{
+    "port": 8002,
+    "memory_size": 1024,
+    "instruction_path": "/home/utnso/scripts-pruebas",
+    "response_delay": 200,
+    "ip_kernel": "127.0.0.1",
+    "port_kernel": 8001,
+    "ip_cpu": "127.0.0.1",
+    "port_cpu": 8004,
+    "ip_filesystem": "127.0.0.1",
+    "port_filesystem": 8003,
+    "scheme": "DINAMICAS",
+    "search_algorithm": "BEST",
+    "partitions": [32,16,64,128,16],
+    "log_level": "TRACE"
+}

@@ -1,0 +1,10 @@
+{
+    "port": 8003,
+    "ip_memory": "127.0.0.1",
+    "port_memory": 8002,
+    "mount_dir": "/home/utnso/mount_dir",
+    "block_size": 32,
+    "block_count": 4096,
+    "block_access_delay": 2500,
+    "log_level": "DEBUG"
+}
